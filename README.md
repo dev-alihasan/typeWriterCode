@@ -6,7 +6,7 @@ This project demonstrates a typewriter effect implemented using HTML, CSS, and J
 3. Customizable: Easy to modify the phrases displayed and adjust the animation timing.
 
 ## Demo
-You can see a live demo of this project <a href="https://typewritertxt.netlify.app/"> here </a> .
+You can see a live demo of this project <a > here </a> .
 
 ## How to Use
 
